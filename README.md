@@ -1,4 +1,4 @@
-# [Notice] Educational Materials for XPS Course & Copyright Policy
+## [Notice] Educational Materials for XPS Course Policy
 
 This page serves as a repository for the **XPS (X-ray Photoelectron Spectroscopy) course**. 
 Please adhere to the following guidelines to ensure a productive learning environment and maintain research security.
@@ -26,3 +26,5 @@ Please adhere to the following guidelines to ensure a productive learning enviro
 ### 4. Practice & Software Files
 * **Practice Files (for Students).zip**: Hands-on data for class exercises (Sharing or distribution is strictly restricted).
 * **Casa2325PR1-0.zip**: CasaXPS Software for KIST user only.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsoos201-hue%2FXPS_Class&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
